@@ -1,0 +1,13 @@
+img {
+    display: flex;
+    align-items: center;
+    width: 650px;
+    padding: 39px;
+    }
+.title{
+color: white;
+padding-left: 30px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+background: #fffafa url("https://img.freepik.com/premium-vector/abstract-circuit-lines-futuristic-technology-digital-hi-tech-background-vector-illustration_115579-1746.jpg");
+background-size: 100%;
+}
